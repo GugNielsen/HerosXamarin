@@ -1,4 +1,4 @@
-/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/MarvelCards.iOS.exe
+/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/MarvelCards.iOS.exe
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/mscorlib.dll
 /Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Core.dll
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/Facades/netstandard.dll
@@ -21,7 +21,7 @@
 /Library/Frameworks/Xamarin.iOS.framework/Versions/12.14.0.114/lib/mono/Xamarin.iOS/System.Xml.Linq.dll
 /Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.dll
 /Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Platform.iOS.dll
-/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
+/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
 /Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/Xamarin.Forms.Xaml.dll
 /Users/marceloduarte/.nuget/packages/skiasharp/1.68.0/lib/Xamarin.iOS/SkiaSharp.dll
 /Users/marceloduarte/.nuget/packages/cardsview/2.1.7/lib/Xamarin.iOS10/PanCardView.dll

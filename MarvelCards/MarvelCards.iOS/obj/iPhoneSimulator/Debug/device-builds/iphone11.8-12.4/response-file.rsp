@@ -1,5 +1,5 @@
---cache=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
---sim=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/MarvelCards.iOS.app
+--cache=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-cache
+--sim=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/MarvelCards.iOS.app
 --executable=MarvelCards.iOS
  --debug
  --sgen-conc
@@ -10,9 +10,9 @@
  --aot-options=-O=-float32
  --http-message-handler=NSUrlSessionHandler
  --abi=x86_64
---symbollist=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
+--symbollist=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.8-12.4/mtouch-symbols.list
  --dsym=no
--r=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
+-r=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/OpenTK-1.0.dll
 -r=/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/System.Core.dll
@@ -209,7 +209,7 @@
 -r=/Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/zh-Hans/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/marceloduarte/.nuget/packages/xamarin.forms/4.1.0.555618/lib/Xamarin.iOS10/zh-Hant/Xamarin.Forms.Platform.iOS.resources.dll
 -r=/Users/marceloduarte/.nuget/packages/xamarin.forms.pancakeview/1.1.5/lib/xamarinios10/Xamarin.Forms.PancakeView.dll
--r=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
+-r=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
  --target-framework=Xamarin.iOS,v1.0
---root-assembly=/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/MarvelCards.iOS.exe
+--root-assembly=/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.iOS/bin/iPhoneSimulator/Debug/MarvelCards.iOS.exe
  
