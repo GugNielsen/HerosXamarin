@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj": {}
+    "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj": {}
   },
   "projects": {
-    "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj": {
+    "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj",
+        "projectUniqueName": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj",
         "projectName": "MarvelCards.Android",
-        "projectPath": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj",
+        "projectPath": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.Android/MarvelCards.Android.csproj",
         "packagesPath": "/Users/marceloduarte/.nuget/packages/",
-        "outputPath": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards.Android/obj/",
+        "outputPath": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards.Android/obj/",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "configFilePaths": [
@@ -26,8 +26,8 @@
         "frameworks": {
           "monoandroid90": {
             "projectReferences": {
-              "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/MarvelCards.csproj": {
-                "projectPath": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/MarvelCards.csproj"
+              "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/MarvelCards.csproj": {
+                "projectPath": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/MarvelCards.csproj"
               }
             }
           }
@@ -88,14 +88,14 @@
         }
       }
     },
-    "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/MarvelCards.csproj": {
+    "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/MarvelCards.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/MarvelCards.csproj",
+        "projectUniqueName": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/MarvelCards.csproj",
         "projectName": "MarvelCards",
-        "projectPath": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/MarvelCards.csproj",
+        "projectPath": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/MarvelCards.csproj",
         "packagesPath": "/Users/marceloduarte/.nuget/packages/",
-        "outputPath": "/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/",
+        "outputPath": "/Users/marceloduarte/Repository/Teste/HerosXamarin/MarvelCards/MarvelCards/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

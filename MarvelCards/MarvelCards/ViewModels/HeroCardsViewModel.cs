@@ -5,13 +5,15 @@ using System.Text;
 
 namespace MarvelCards.ViewModels
 {
-    public class HeroCardsViewModel
+    namespace MarvelCards.ViewModels
     {
-        public ObservableCollection<Hero> Heroes { get; set; }
-
-        public HeroCardsViewModel()
+        public class HeroCardsViewModel
         {
-            Heroes = new ObservableCollection<Hero>()
+            public ObservableCollection<Hero> Heroes { get; set; }
+
+            public HeroCardsViewModel()
+            {
+                Heroes = new ObservableCollection<Hero>()
             {
                 new Hero()
                 {
@@ -46,10 +48,10 @@ namespace MarvelCards.ViewModels
                 },
                   new Hero()
                 {
-                    HeroName =  "    Huck",
-                    RealName = "bruce banner",
+                    HeroName =" "+"Hulk",
+                    RealName ="bruce banner",
                     Image = "huck.png",
-                    HeroColor = "#15400E",
+                    HeroColor ="#15400E",
                     Posters = new List<string>()
                     {
                         "huck_04.png",
@@ -60,6 +62,18 @@ namespace MarvelCards.ViewModels
                     Bio = "O Hulk é um poderoso alter ego do Dr. Bruce Banner, um cientista que foi atingido por raios gama enquanto salvava um adolescente durante o teste militar de uma bomba por ele desenvolvida."
                 }
             };
+            }
+        }
+
+        public class Hero
+        {
+            public string HeroName { get; set; }
+            public string RealName { get; set; }
+            public string Image { get; set; }
+            public string HeroColor { get; set; }
+            public string Bio { get; set; }
+            public List<string> Posters { get; set; }
+
         }
     }
 
