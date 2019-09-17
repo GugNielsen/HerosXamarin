@@ -1,0 +1,13 @@
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.deps.json
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.dll
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/bin/Debug/netstandard2.0/MarvelCards.pdb
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.csprojAssemblyReference.cache
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/Views/HeroCard.xaml.g.cs
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.csproj.CoreCompileInputs.cache
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.AssemblyInfoInputs.cache
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.AssemblyInfo.cs
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.dll
+/Users/marceloduarte/Repository/MarvelCards/src/MarvelCards/MarvelCards/obj/Debug/netstandard2.0/MarvelCards.pdb
